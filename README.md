@@ -6,7 +6,7 @@ Preview:<br>
 
 Built using:<br>
 ```
-- React (JavaScript)
+- JavaScript (React)
 - HTML
 - CSS
 - Axios
